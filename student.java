@@ -4,9 +4,9 @@ public class student {
         int mark=532;
         char grade = 'o';
         String subject="physiscs";
-        System.out.println(name);
-        System.out.println(mark);
-        System.out.println(grade);
-        System.out.println(subject);
+        System.out.println("Enter your name:"+name);
+        System.out.println("Enter your mark:"+mark);
+        System.out.println("Enter your grade:"+grade);
+        System.out.println("Enter your subject:"+subject);
     }
 }
